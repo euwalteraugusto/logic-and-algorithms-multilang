@@ -65,7 +65,7 @@ Cada exercício e desafio foi resolvido seguindo dois padrões distintos para co
 
 ## 👤 Autor
 
-**Walter Fonseca**
+**Walter Fonseca**  
 *Desenvolvedor em formação, focado em dominar as bases da computação e transformar lógica em soluções reais.*
 
 ---
