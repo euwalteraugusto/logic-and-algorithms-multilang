@@ -1,0 +1,22 @@
+# PYTHON
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+env/
+
+# ENV
+.env
+
+# DATABASE
+*.db
+*.sqlite3
+
+# POWER BI (artefato gerado, binário)
+*.pbix
+
+# EDITOR / OS
+.vscode/
+.DS_Store
+Thumbs.db
